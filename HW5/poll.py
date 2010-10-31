@@ -12,19 +12,17 @@ class Poller:
         Initialize class and define variables that variables common to
         multiple methods.
         """
+
+
         self.dbfile = ['polls.db']
         self.conn = sqlite3.connect(self.dbfile[0])
         self.cur  = self.conn.cursor()
         self.partyarr = np.array(['Democrat','Republican','Independent'])
 
-    def cleandb(self):
-        """
-        Spawns the `rm` command to clean up old databases.
-        """
-        for file in self.dbfile:
-            if os.path.exists(file):
-                os.system('rm '+ file)
-        pass
+    def reload(self):
+        self.conn = sqlite3.connect(self.dbfile[0])
+        self.cur  = self.conn.cursor()
+
             
     def makedb(self):
         """
@@ -32,9 +30,14 @@ class Poller:
         `stateabbr.txt` and stores them in `polls.db`
         """
 
+        for file in self.dbfile:
+            if os.path.exists(file):
+                os.system('rm '+ file)
+
+        self.reload()
+
         #load the data from csv into database.
         ################ NAMES ########################
-
         self.cur.execute('CREATE TABLE names (state TEXT, dem TEXT, gop '+
                          'TEXT, ind TEXT, incum TEXT)')
         names  = mlab.csv2rec('candidate_names.txt')
@@ -58,7 +61,10 @@ class Poller:
         abbr  = mlab.csv2rec('stateabbr.txt',delimiter='\t')
         for line in abbr:
             self.cur.execute('INSERT INTO abbr (full,code) VALUES '+ str(line))
+
         self.conn.commit()
+        self.cur.close()
+#        self.conn.close()
     
     def candidates(self,state):
         """
@@ -103,7 +109,7 @@ class Poller:
         plt.ylabel('Poll')
         plt.xlabel('Days Since Jan, 1 2010')
         plt.legend(candidates,loc='lower left')
-        
+        plt.show()
         if save:
             pylab.savefig('tempchart.png')
             
