@@ -1,0 +1,61 @@
+commit 24f90cf1ca1ea37b0c2793e3af74e7663879eb2f
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Wed Oct 27 21:30:38 2010 -0700
+
+    Exoplanets section.
+    
+    Flushed out the prose in the exoplanet comparison section.
+
+commit 8b05049adcef19b975e579fa3b4f9262cf017c5c
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 26 14:58:00 2010 -0700
+
+    Removed unecessary tex files from tracking.  Updated the comparison
+    section with Bensby 2005 and Luck 2006.  This is up to date and final.
+
+commit 781b0b305f136421e975854ce4fa36628399364c
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Sun Oct 17 22:34:57 2010 -0700
+
+    Added some lines about carbon in the introduction.  Minor changes throughout.
+
+commit 695c84b207ee92196938ac531bd2f46c46b94c5b
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Fri Oct 15 16:04:06 2010 -0700
+
+    Changes to the comparison section of the paper.
+    
+    Update comparision section of the paper with plots of C and O compared against
+    Luck06 as oppoosed to Ramirez07.  I also changed the wording around in the
+    accompanying section.
+
+commit 626dcb264c5307f9cabbb027588aa79ac951f43d
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 12 23:29:13 2010 -0700
+
+    Changes to first half of paper.
+    
+    Described hard cuts on vsini
+    updated Teff plots from python
+    Added carbon into wording in first half of paper.
+
+commit 74b22d43c71f03e2fbe9704e9cb698d9fbeb2b25
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Sun Oct 10 19:06:06 2010 -0700
+
+    testing to see if version tracking is working
+
+commit 53cab8ede5302d1c141fc900f23f9e7d4a17b9cb
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Sun Oct 10 19:04:06 2010 -0700
+
+    testing to see if version tracking is working
+
+commit 1f440ef2cb84b2bbf0b1b4ead0398e3d981211f2
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Sun Oct 10 19:01:32 2010 -0700
+
+    Initial Commit
+    
+    This commit represents the state of this document at the end of the summer.
+    The NSO plots for carbon are included.

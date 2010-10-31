@@ -1,0 +1,35 @@
+import 
+
+
+
+parser = argparse.ArgumentParser(description='Sample Application')
+parser.add_argument('-T', action='store', dest='title',
+                    help='Set the Title')
+parser.add_argument('-n', action='store', dest='npts',type=int,
+                    help='Number of Points to Plots')
+
+parser.add_argument('-N', action='store_true', default=False,
+                    dest='outline',
+                    help='Set to do outline hist')
+
+
+results  = parser.parse_args()
+title    = results.title
+npts     = results.npts
+outline  = results.outline
+
+f = plt.figure()
+f.set_label(title)
+x = datagen.generateData.randData(npts)
+
+if outline:
+    plotting.histOutline.OutlinedHistogram(x)
+else:
+    plotting.histOutline.RegularHistogram(x)
+
+
+
+
+
+
+    

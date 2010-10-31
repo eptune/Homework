@@ -1,0 +1,744 @@
+Day,Len,State,EV,Dem,GOP,Ind,Date,,,,,,,,Pollster
+264.0,1,Alabama,,30,58,,Sep 21,,,,,,,,Rasmussen-1
+231.0,1,Alabama,,28,60,,Aug 19,,,,,,,,Rasmussen-1
+203.0,1,Alabama,,29,59,,Jul 22,,,,,,,,Rasmussen-1
+154.0,1,Alabama,,31,58,,Jun 03,,,,,,,,Rasmussen-1
+145.0,1,Alabama,,31,58,,May 25,,,,,,,,Rasmussen-1
+ 88.0,1,Alabama,,32,59,,Mar 29,,,,,,,,Rasmussen-1
+  1.0,1,Alabama,,37,63,,Jan 01,,,,,,,,2004 Election-1
+298.5,2,Alaska,,29,23,34,Oct 26,,,,,,,,Hays Research-2
+298.5,6,Alaska,,23,27,37,Oct 28,,,,,,,,Dittman Research-6
+290.0,5,Alaska,,23,37,37,Oct 19,,,,,,,,Opinion Research-5
+286.0,1,Alaska,,27,35,34,Oct 13,,,,,,,,Rasmussen-1
+282.5,2,Alaska,,26,35,33,Oct 10,,,,,,,,PPP-2
+269.0,5,Alaska,,22,38,36,Sep 28,,,,,,,,Opinion Research-5
+268.0,5,Alaska,,25,40,27,Sep 27,,,,,,,,Ivan Moore Research-5
+267.5,2,Alaska,,19,30,41,Sep 25,,,,,,,,Craciun Research-2
+262.0,1,Alaska,,25,42,27,Sep 19,,,,,,,,Rasmussen-1
+  1.0,1,Alaska,,46,49,,Jan 01,,,,,,,,2004 Election-1
+296.5,2,Arizona,,38,56,,Oct 24,,,,,,,,PPP-2
+278.5,10,Arizona,,22,56,,Oct 10,,,,,,,,Rocky Mtn Poll-10
+276.0,1,Arizona,,33,54,,Oct 03,,,,,,,,Rasmussen-1
+250.0,1,Arizona,,37,51,,Sep 07,,,,,,,,Rasmussen-1
+237.0,1,Arizona,,31,53,,Aug 25,,,,,,,,Rasmussen-1
+210.0,1,Arizona,,34,53,,Jul 29,,,,,,,,Rasmussen-1
+137.0,1,Arizona,,28,57,,May 17,,,,,,,,Rasmussen-1
+114.0,3,Arizona,,33,49,,Apr 25,,,,,,,,PPP-3
+108.5,14,Arizona,,24,46,,Apr 25,,,,,,,,Rocky Mtn Poll-14
+103.0,1,Arizona,,32,54,,Apr 13,,,,,,,,Rasmussen-1
+290.0,5,Arkansas,,34,55,,Oct 19,,,,,,,,Mason Dixon-5
+290.0,5,Arkansas,,41,55,,Oct 19,,,,,,,,Opinion Research-5
+287.0,13,Arkansas,,36,48,,Oct 20,,,,,,,,U. of Arkansas-13
+273.0,1,Arkansas,,37,55,,Sep 30,,,,,,,,Rasmussen-1
+261.0,3,Arkansas,,39,53,,Sep 19,,,,,,,,IPSOS-3
+259.0,1,Arkansas,,29,56,,Sep 16,,,,,,,,Hendrix Coll.-1
+256.0,3,Arkansas,,34,51,,Sep 14,,,,,,,,Mason Dixon-3
+230.0,1,Arkansas,,27,65,,Aug 18,,,,,,,,Rasmussen-1
+201.0,1,Arkansas,,35,60,,Jul 20,,,,,,,,Rasmussen-1
+198.0,3,Arkansas,,35,54,,Jul 18,,,,,,,,IPSOS-3
+166.0,1,Arkansas,,32,61,,Jun 15,,,,,,,,Rasmussen-1
+139.0,1,Arkansas,,28,66,,May 19,,,,,,,,Rasmussen-1
+124.0,3,Arkansas,,35,52,,May 05,,,,,,,,Mason Dixon-3
+116.0,1,Arkansas,,29,57,,Apr 26,,,,,,,,Rasmussen-1
+ 89.0,1,Arkansas,,36,51,,Mar 30,,,,,,,,Rasmussen-1
+ 60.0,1,Arkansas,,39,48,,Mar 01,,,,,,,,Rasmussen-1
+ 32.0,1,Arkansas,,35,54,,Feb 01,,,,,,,,Rasmussen-1
+ 30.0,3,Arkansas,,33,56,,Jan 31,,,,,,,,PPP-3
+300.0,1,California,,49,46,,Oct 27,,,,,,,,Rasmussen-1
+299.5,4,California,,49,45,,Oct 28,,,,,,,,YouGov-4
+296.0,1,California,,48,44,,Oct 23,,,,,,,,Pulse Opinion Research-1
+296.0,5,California,,45,40,,Oct 25,,,,,,,,SurveyUSA-5
+296.0,7,California,,50,45,,Oct 26,,,,,,,,Opinion Research-7
+295.5,4,California,,52,43,,Oct 24,,,,,,,,Suffolk U.-4
+295.0,3,California,,52,43,,Oct 23,,,,,,,,PPP-3
+294.0,1,California,,48,46,,Oct 21,,,,,,,,Rasmussen-1
+293.0,13,California,,49,41,,Oct 26,,,,,,,,Field Poll-13
+289.5,4,California,,46,44,,Oct 18,,,,,,,,SurveyUSA-4
+289.5,8,California,,50,42,,Oct 20,,,,,,,,LA Times-8
+289.0,1,California,,48,44,,Oct 16,,,,,,,,Pulse Opinion Research-1
+286.5,8,California,,43,38,,Oct 17,,,,,,,,Public Policy Inst. of Calif.-8
+286.0,1,California,,49,46,,Oct 13,,,,,,,,Rasmussen-1
+286.0,3,California,,46,45,,Oct 14,,,,,,,,IPSOS-3
+278.0,3,California,,55,39,,Oct 06,,,,,,,,Angus Reid Public Opinion-3
+276.0,1,California,,49,45,,Oct 03,,,,,,,,Rasmussen-1
+276.0,3,California,,49,45,,Oct 04,,,,,,,,IPSOS-3
+274.5,4,California,,46,43,,Oct 03,,,,,,,,SurveyUSA-4
+269.0,5,California,,52,43,,Sep 28,,,,,,,,Opinion Research-5
+265.5,8,California,,42,35,,Sep 26,,,,,,,,Public Policy Inst. of Calif.-8
+263.0,1,California,,47,43,,Sep 20,,,,,,,,Rasmussen-1
+263.0,3,California,,49,43,,Sep 21,,,,,,,,SurveyUSA-3
+261.5,8,California,,51,43,,Sep 22,,,,,,,,LA Times-8
+261.0,1,California,,47,46,,Sep 18,,,,,,,,Pulse Opinion Res.-1
+260.5,8,California,,47,41,,Sep 21,,,,,,,,Field Poll-8
+258.0,3,California,,50,42,,Sep 16,,,,,,,,PPP-3
+254.0,1,California,,46,44,,Sep 11,,,,,,,,Pulse Opinion Res.-1
+254.0,3,California,,48,46,,Sep 12,,,,,,,,SurveyUSA-3
+249.0,1,California,,47,48,,Sep 06,,,,,,,,Rasmussen-1
+247.5,6,California,,48,44,,Sep 07,,,,,,,,Opinion Research-6
+245.0,1,California,,46,48,,Sep 02,,,,,,,,SurveyUSA-1
+236.0,1,California,,49,44,,Aug 24,,,,,,,,Rasmussen-1
+222.0,3,California,,42,47,,Aug 11,,,,,,,,SurveyUSA-3
+215.0,1,California,,45,40,,Aug 03,,,,,,,,Rasmussen-1
+205.0,3,California,,49,40,,Jul 25,,,,,,,,PPP-3
+194.0,15,California,,39,34,,Jul 20,,,,,,,,Public Policy Inst. of Calif.-15
+193.0,1,California,,49,42,,Jul 12,,,,,,,,Rasmussen-1
+190.5,4,California,,45,47,,Jul 11,,,,,,,,SurveyUSA-4
+179.5,14,California,,47,44,,Jul 05,,,,,,,,Field Poll-14
+177.0,3,California,,45,41,,Jun 27,,,,,,,,IPSOS-3
+160.0,1,California,,48,43,,Jun 09,,,,,,,,Rasmussen-1
+142.5,8,California,,44,38,,May 26,,,,,,,,LA Times-8
+142.0,3,California,,45,42,,May 23,,,,,,,,PPP-3
+132.5,8,California,,48,39,,May 16,,,,,,,,Public Policy Inst. of Calif.-8
+132.0,1,California,,45,38,,May 12,,,,,,,,Rasmussen-1
+102.0,1,California,,42,38,,Apr 12,,,,,,,,Rasmussen-1
+ 71.5,8,California,,44,43,,Mar 16,,,,,,,,Public Policy Inst. of Calif.-8
+ 71.0,7,California,,45,44,,Mar 15,,,,,,,,Field Poll-7
+ 70.0,1,California,,46,40,,Mar 11,,,,,,,,Rasmussen-1
+ 42.0,1,California,,46,42,,Feb 11,,,,,,,,Rasmussen-1
+ 15.5,8,California,,48,40,,Jan 19,,,,,,,,Public Policy Inst. of Calif.-8
+ 14.0,1,California,,46,43,,Jan 14,,,,,,,,Rasmussen-1
+ 11.0,13,California,,50,35,,Jan 17,,,,,,,,Field Poll-13
+300.0,3,Colorado,,45,49,,Oct 28,,,,,,,,Marist Coll.-3
+298.0,1,Colorado,,44,48,,Oct 25,,,,,,,,Rasmussen-1
+298.0,3,Colorado,,43,42,,Oct 26,,,,,,,,RBI Strategies-3
+296.0,7,Colorado,,46,47,,Oct 26,,,,,,,,Opinion Research-7
+295.0,3,Colorado,,47,47,,Oct 23,,,,,,,,PPP-3
+293.0,3,Colorado,,47,47,,Oct 21,,,,,,,,SurveyUSA-3
+289.0,1,Colorado,,45,46,,Oct 16,,,,,,,,Pulse Opinion Research-1
+289.0,3,Colorado,,45,48,,Oct 17,,,,,,,,IPSOS-3
+287.0,1,Colorado,,45,47,,Oct 14,,,,,,,,Rasmussen-1
+277.0,1,Colorado,,42,50,,Oct 04,,,,,,,,Marist Coll.-1
+276.0,1,Colorado,,45,50,,Oct 03,,,,,,,,Rasmussen-1
+274.0,3,Colorado,,46,45,,Oct 02,,,,,,,,PPP-3
+272.0,3,Colorado,,43,48,,Sep 30,,,,,,,,SurveyUSA-3
+270.0,1,Colorado,,43,51,,Sep 27,,,,,,,,Rasmussen-1
+270.0,3,Colorado,,42,50,,Sep 28,,,,,,,,Marist Coll.-3
+268.0,1,Colorado,,43,47,,Sep 25,,,,,,,,Pulse Opinion Research-1
+262.0,5,Colorado,,44,49,,Sep 21,,,,,,,,Opinion Research-5
+257.0,1,Colorado,,45,49,,Sep 14,,,,,,,,Rasmussen-1
+242.0,5,Colorado,,43,40,,Sep 01,,,,,,,,POS+FMMM-5
+241.0,1,Colorado,,45,49,,Aug 29,,,,,,,,Rasmussen-1
+233.0,3,Colorado,,40,49,,Aug 22,,,,,,,,IPSOS-3
+223.0,1,Colorado,,41,46,,Aug 11,,,,,,,,Rasmussen-1
+219.5,2,Colorado,,46,43,,Aug 08,,,,,,,,PPP-2
+209.0,3,Colorado,,43,43,,Jul 29,,,,,,,,SurveyUSA-3
+207.0,1,Colorado,,42,48,,Jul 26,,,,,,,,Rasmussen-1
+189.0,1,Colorado,,39,48,,Jul 08,,,,,,,,Rasmussen-1
+167.0,3,Colorado,,43,46,,Jun 17,,,,,,,,SurveyUSA-3
+158.0,1,Colorado,,41,46,,Jun 07,,,,,,,,Rasmussen-1
+135.0,3,Colorado,,45,39,,May 16,,,,,,,,PPP-3
+123.0,1,Colorado,,41,48,,May 03,,,,,,,,Rasmussen-1
+ 95.0,1,Colorado,,40,44,,Apr 05,,,,,,,,Rasmussen-1
+ 65.5,4,Colorado,,46,40,,Mar 08,,,,,,,,PPP-4
+ 61.0,1,Colorado,,38,44,,Mar 02,,,,,,,,Rasmussen-1
+ 33.0,1,Colorado,,41,45,,Feb 02,,,,,,,,Rasmussen-1
+ 13.0,1,Colorado,,38,43,,Jan 13,,,,,,,,Rasmussen-1
+298.0,3,Connecticut,,52,44,,Oct 26,,,,,,,,Merriman River Group-3
+297.0,1,Connecticut,,56,43,,Oct 24,,,,,,,,Rasmussen-1
+296.0,1,Connecticut,,53,42,,Oct 23,,,,,,,,Pulse Opinion Research-1
+294.0,7,Connecticut,,54,42,,Oct 24,,,,,,,,Quinnipiac U.-7
+292.5,2,Connecticut,,57,39,,Oct 20,,,,,,,,Suffolk U.-2
+287.0,1,Connecticut,,49,45,,Oct 14,,,,,,,,Rasmussen-1
+287.0,1,Connecticut,,51,46,,Oct 14,,,,,,,,Rasmussen-1
+282.0,1,Connecticut,,49,43,,Oct 09,,,,,,,,Pulse Opinion Research-1
+282.0,5,Connecticut,,54,43,,Oct 11,,,,,,,,Quinnipiac U.-5
+278.0,1,Connecticut,,54,43,,Oct 05,,,,,,,,Rasmussen-1
+276.0,5,Connecticut,,54,41,,Oct 05,,,,,,,,Opinion Research-5
+275.0,1,Connecticut,,52,42,,Oct 02,,,,,,,,Pulse Opinion Research-1
+274.0,3,Connecticut,,53,41,,Oct 02,,,,,,,,PPP-3
+269.0,1,Connecticut,,50,45,,Sep 26,,,,,,,,Rasmussen-1
+266.5,6,Connecticut,,49,46,,Sep 26,,,,,,,,Quinnipiac U.-6
+253.0,5,Connecticut,,51,45,,Sep 12,,,,,,,,Quinnipiac U.-5
+252.0,1,Connecticut,,53,44,,Sep 09,,,,,,,,Rasmussen-1
+223.0,1,Connecticut,,47,40,,Aug 11,,,,,,,,Rasmussen-1
+211.5,6,Connecticut,,50,40,,Aug 02,,,,,,,,Quinnipiac U.-6
+196.0,1,Connecticut,,53,40,,Jul 15,,,,,,,,Rasmussen-1
+191.0,7,Connecticut,,54,37,,Jul 13,,,,,,,,Quinnipiac U.-7
+156.0,7,Connecticut,,55,35,,Jun 08,,,,,,,,Quinnipiac U.-7
+152.0,1,Connecticut,,56,33,,Jun 01,,,,,,,,Rasmussen-1
+144.5,2,Connecticut,,56,31,,May 25,,,,,,,,Quinnipiac U.-2
+138.0,1,Connecticut,,48,45,,May 18,,,,,,,,Rasmussen-1
+124.0,1,Connecticut,,52,39,,May 04,,,,,,,,Rasmussen-1
+ 97.0,1,Connecticut,,55,35,,Apr 07,,,,,,,,Rasmussen-1
+ 71.0,7,Connecticut,,61,28,,Mar 15,,,,,,,,Quinnipiac U.-7
+ 61.0,1,Connecticut,,60,31,,Mar 02,,,,,,,,Rasmussen-1
+ 32.0,1,Connecticut,,56,36,,Feb 01,,,,,,,,Rasmussen-1
+ 10.0,5,Connecticut,,64,23,,Jan 12,,,,,,,,Quinnipiac U.-5
+  8.5,6,Connecticut,,47,35,,Jan 11,,,,,,,,Polimetrix-6
+  6.0,1,Connecticut,,58,34,,Jan 06,,,,,,,,Rasmussen-1
+  4.5,2,Connecticut,,60,28,,Jan 05,,,,,,,,PPP-2
+299.0,3,Delaware,,51,41,,Oct 27,,,,,,,,Monmouth U.-3
+296.0,7,Delaware,,57,36,,Oct 26,,,,,,,,Fairleigh Dickinson U.-7
+287.0,1,Delaware,,51,40,,Oct 14,,,,,,,,Rasmussen-1
+284.5,2,Delaware,,54,33,,Oct 12,,,,,,,,SurveyUSA-2
+283.0,5,Delaware,,57,38,,Oct 12,,,,,,,,Opinion Research-5
+282.5,4,Delaware,,57,38,,Oct 11,,,,,,,,Monmouth U.-4
+282.0,1,Delaware,,54,38,,Oct 09,,,,,,,,Pulse Opinion Research-1
+273.0,7,Delaware,,53,36,,Oct 03,,,,,,,,Fairleigh Dickinson U.-7
+269.0,1,Delaware,,49,40,,Sep 26,,,,,,,,Rasmussen-1
+266.0,15,Delaware,,49,30,,Sep 30,,,,,,,,U. of Delaware-15
+262.0,5,Delaware,,55,39,,Sep 21,,,,,,,,Opinion Research-5
+261.0,1,Delaware,,54,39,,Sep 18,,,,,,,,Pulse Opinion Res.-1
+258.0,1,Delaware,,53,42,,Sep 15,,,,,,,,Rasmussen-1
+254.5,2,Delaware,,50,34,,Sep 12,,,,,,,,PPP-2
+245.0,1,Delaware,,47,36,,Sep 02,,,,,,,,Rasmussen-1
+300.0,1,Florida,,16,50,30,Oct 27,,,,,,,,Rasmussen-1
+299.5,2,Florida,,23,47,27,Oct 27,,,,,,,,Sunshine State News-2
+299.5,4,Florida,,18,42,31,Oct 28,,,,,,,,YouGov-4
+299.0,3,Florida,,21,45,28,Oct 27,,,,,,,,Mason Dixon-3
+294.0,7,Florida,,15,42,35,Oct 24,,,,,,,,Quinnipiac U.-7
+292.5,4,Florida,,18,40,33,Oct 21,,,,,,,,Zogby-4
+291.0,1,Florida,,20,43,32,Oct 18,,,,,,,,Rasmussen-1
+290.0,5,Florida,,20,41,26,Oct 19,,,,,,,,IPSOS-5
+290.0,5,Florida,,20,46,32,Oct 19,,,,,,,,Opinion Research-5
+288.5,4,Florida,,22,39,31,Oct 17,,,,,,,,Suffolk U.-4
+282.5,2,Florida,,21,44,33,Oct 10,,,,,,,,PPP-2
+281.0,5,Florida,,22,44,30,Oct 10,,,,,,,,Quinnipiac U.-5
+280.0,1,Florida,,19,50,25,Oct 07,,,,,,,,Rasmussen-1
+278.0,3,Florida,,21,42,27,Oct 06,,,,,,,,Mason Dixon-3
+273.0,1,Florida,,16,40,33,Sep 30,,,,,,,,Pulse Opinion Research-1
+271.0,1,Florida,,21,41,30,Sep 28,,,,,,,,Rasmussen-1
+271.0,3,Florida,,18,39,33,Sep 29,,,,,,,,Zogby-3
+269.5,8,Florida,,26,46,27,Sep 30,,,,,,,,Miami Dade Coll.-8
+269.0,5,Florida,,23,42,31,Sep 28,,,,,,,,Opinion Research-5
+268.5,6,Florida,,18,46,33,Sep 28,,,,,,,,Quinnipiac U.-6
+264.0,3,Florida,,23,40,28,Sep 22,,,,,,,,Mason Dixon-3
+257.0,1,Florida,,23,41,30,Sep 14,,,,,,,,Rasmussen-1
+254.0,1,Florida,,21,43,27,Sep 11,,,,,,,,Pulse Opinion Res.-1
+254.0,3,Florida,,21,40,26,Sep 12,,,,,,,,IPSOS-3
+247.5,6,Florida,,24,36,34,Sep 07,,,,,,,,Opinion Research-6
+237.0,1,Florida,,21,40,30,Aug 25,,,,,,,,Rasmussen-1
+233.5,2,Florida,,17,40,32,Aug 22,,,,,,,,PPP-2
+225.5,6,Florida,,16,32,39,Aug 16,,,,,,,,Quinnipiac U.-6
+222.0,3,Florida,,18,38,33,Aug 11,,,,,,,,Mason Dixon-3
+221.0,1,Florida,,21,38,33,Aug 09,,,,,,,,Rasmussen-1
+218.0,1,Florida,,19,33,38,Aug 06,,,,,,,,IPSOS-1
+207.0,5,Florida,,12,30,41,Jul 28,,,,,,,,NY Times-5
+207.0,5,Florida,,13,30,41,Jul 28,,,,,,,,U. of South Florida-5
+205.5,6,Florida,,13,33,39,Jul 27,,,,,,,,Quinnipiac U.-6
+202.0,1,Florida,,20,35,33,Jul 21,,,,,,,,Rasmussen-1
+198.0,3,Florida,,17,29,35,Jul 18,,,,,,,,PPP-3
+191.0,3,Florida,,17,28,35,Jul 11,,,,,,,,IPSOS-3
+187.0,1,Florida,,15,36,34,Jul 06,,,,,,,,Rasmussen-1
+158.0,1,Florida,,15,37,37,Jun 07,,,,,,,,Rasmussen-1
+155.0,7,Florida,,17,33,37,Jun 07,,,,,,,,Quinnipiac U.-7
+136.0,1,Florida,,18,39,31,May 16,,,,,,,,Rasmussen-1
+136.0,5,Florida,,15,27,30,May 18,,,,,,,,IPSOS-5
+124.0,3,Florida,,19,32,38,May 05,,,,,,,,Mason Dixon-3
+123.0,1,Florida,,17,34,38,May 03,,,,,,,,Rasmussen-1
+111.0,1,Florida,,22,37,30,Apr 21,,,,,,,,Rasmussen-1
+100.5,6,Florida,,24,30,32,Apr 13,,,,,,,,Quinnipiac U.-6
+ 77.0,1,Florida,,25,42,22,Mar 18,,,,,,,,Rasmussen-1
+ 65.5,4,Florida,,25,34,27,Mar 08,,,,,,,,PPP-4
+297.0,1,Georgia,,29,59,,Oct 24,,,,,,,,Rasmussen-1
+295.5,4,Georgia,,34,58,,Oct 24,,,,,,,,SurveyUSA-4
+279.0,1,Georgia,,38,53,,Oct 06,,,,,,,,Rasmussen-1
+270.0,1,Georgia,,29,61,,Sep 27,,,,,,,,Insider Advantage-1
+264.0,1,Georgia,,36,52,,Sep 21,,,,,,,,Rasmussen-1
+257.5,4,Georgia,,34,52,,Sep 16,,,,,,,,Insider Advantage-4
+257.0,3,Georgia,,33,52,,Sep 15,,,,,,,,Mason Dixon-3
+254.0,3,Georgia,,34,56,,Sep 12,,,,,,,,SurveyUSA-3
+230.0,1,Georgia,,35,47,,Aug 18,,,,,,,,Insider Advantage-1
+223.0,1,Georgia,,41,55,,Aug 11,,,,,,,,Rasmussen-1
+140.0,1,Georgia,,30,57,,May 20,,,,,,,,Rasmussen-1
+112.0,1,Georgia,,35,51,,Apr 22,,,,,,,,Rasmussen-1
+286.0,1,Hawaii,,53,40,,Oct 13,,,,,,,,Rasmussen-1
+275.5,2,Hawaii,,65,29,,Oct 03,,,,,,,,PPP-2
+175.0,1,Hawaii,,68,20,,Jun 24,,,,,,,,Rasmussen-1
+  1.0,1,Hawaii,,76,21,,Jan 01,,,,,,,,2004 Election-1
+294.0,3,Idaho,,20,64,,Oct 22,,,,,,,,Mason Dixon-3
+294.0,3,Idaho,,20,64,,Oct 22,,,,,,,,Penn Schoen Berland-3
+257.0,3,Idaho,,17,61,,Sep 15,,,,,,,,Mason Dixon-3
+248.0,9,Idaho,,16,74,,Sep 09,,,,,,,,Idaho Media-9
+243.0,1,Idaho,,24,63,,Aug 31,,,,,,,,Rasmussen-1
+196.0,1,Idaho,,27,64,,Jul 15,,,,,,,,Rasmussen-1
+131.0,1,Idaho,,22,66,,May 11,,,,,,,,Rasmussen-1
+299.0,1,Illinois,,42,46,,Oct 26,,,,,,,,Rasmussen-1
+296.0,1,Illinois,,41,43,,Oct 23,,,,,,,,Pulse Opinion Research-1
+293.0,5,Illinois,,41,44,,Oct 22,,,,,,,,Chicago Tribune-5
+293.0,5,Illinois,,41,44,,Oct 22,,,,,,,,Market Shares-5
+292.0,3,Illinois,,41,43,,Oct 20,,,,,,,,Mason Dixon-3
+291.0,1,Illinois,,40,44,,Oct 18,,,,,,,,Rasmussen-1
+288.0,3,Illinois,,40,42,,Oct 16,,,,,,,,PPP-3
+284.0,1,Illinois,,44,43,,Oct 11,,,,,,,,Rasmussen-1
+278.0,11,Illinois,,37,37,,Oct 10,,,,,,,,Paul Simon Public Policy Institute-11
+278.0,11,Illinois,,37,37,,Oct 10,,,,,,,,Southern Illinois University-11
+277.0,1,Illinois,,41,45,,Oct 04,,,,,,,,Rasmussen-1
+274.5,4,Illinois,,41,42,,Oct 03,,,,,,,,Suffolk U.-4
+269.0,5,Illinois,,38,36,,Sep 28,,,,,,,,Chicago Tribune-5
+269.0,5,Illinois,,43,42,,Sep 28,,,,,,,,Opinion Research-5
+268.0,1,Illinois,,40,42,,Sep 25,,,,,,,,Pulse Opinion Research-1
+267.5,4,Illinois,,36,40,,Sep 26,,,,,,,,PPP-4
+267.5,4,Illinois,,40,37,,Sep 26,,,,,,,,Global Strategy-4
+264.0,1,Illinois,,41,44,,Sep 21,,,,,,,,Rasmussen-1
+250.0,1,Illinois,,37,41,,Sep 07,,,,,,,,Rasmussen-1
+242.0,5,Illinois,,34,34,,Sep 01,,,,,,,,Chicago Tribune-5
+235.0,1,Illinois,,42,40,,Aug 23,,,,,,,,Rasmussen-1
+226.5,2,Illinois,,37,35,,Aug 15,,,,,,,,PPP-2
+221.0,1,Illinois,,40,40,,Aug 09,,,,,,,,Rasmussen-1
+207.0,1,Illinois,,43,41,,Jul 26,,,,,,,,Rasmussen-1
+188.0,1,Illinois,,40,39,,Jul 07,,,,,,,,Rasmussen-1
+163.5,2,Illinois,,31,30,,Jun 13,,,,,,,,PPP-2
+158.0,1,Illinois,,39,42,,Jun 07,,,,,,,,Rasmussen-1
+118.0,1,Illinois,,38,46,,Apr 28,,,,,,,,Rasmussen-1
+115.0,3,Illinois,,35,35,,Apr 26,,,,,,,,PPP-3
+ 95.0,1,Illinois,,37,41,,Apr 05,,,,,,,,Rasmussen-1
+ 93.0,5,Illinois,,33,37,,Apr 05,,,,,,,,PPP-5
+ 67.0,1,Illinois,,44,41,,Mar 08,,,,,,,,Rasmussen-1
+ 34.0,1,Illinois,,40,46,,Feb 03,,,,,,,,Rasmussen-1
+ 23.5,4,Illinois,,42,34,,Jan 25,,,,,,,,PPP-4
+296.0,5,Indiana,,32,54,,Oct 25,,,,,,,,SurveyUSA-5
+293.5,2,Indiana,,34,52,,Oct 21,,,,,,,,Rasmussen-2
+293.0,3,Indiana,,35,53,,Oct 21,,,,,,,,EPIC MRA-3
+273.0,3,Indiana,,33,51,,Oct 01,,,,,,,,EPIC MRA-3
+257.5,2,Indiana,,34,50,,Sep 15,,,,,,,,Rasmussen-2
+217.5,4,Indiana,,29,50,,Aug 07,,,,,,,,Rasmussen-4
+213.5,4,Indiana,,35,50,,Aug 03,,,,,,,,Polling Company-4
+189.0,1,Indiana,,30,51,,Jul 08,,,,,,,,Rasmussen-1
+153.5,2,Indiana,,33,47,,Jun 03,,,,,,,,Rasmussen-2
+125.5,2,Indiana,,36,51,,May 06,,,,,,,,Rasmussen-2
+114.0,5,Indiana,,31,47,,Apr 26,,,,,,,,SurveyUSA-5
+103.5,2,Indiana,,33,54,,Apr 14,,,,,,,,Rasmussen-2
+ 76.5,2,Indiana,,34,49,,Mar 18,,,,,,,,Rasmussen-2
+ 47.5,2,Indiana,,32,46,,Feb 17,,,,,,,,Rasmussen-2
+266.0,1,Iowa,,37,55,,Sep 23,,,,,,,,Rasmussen-1
+263.5,4,Iowa,,33,61,,Sep 22,,,,,,,,Selzer-4
+217.0,1,Iowa,,35,55,,Aug 05,,,,,,,,Rasmussen-1
+165.0,1,Iowa,,37,54,,Jun 14,,,,,,,,Rasmussen-1
+146.0,3,Iowa,,31,57,,May 27,,,,,,,,PPP-3
+119.0,1,Iowa,,40,53,,Apr 29,,,,,,,,Rasmussen-1
+ 76.0,1,Iowa,,36,55,,Mar 17,,,,,,,,Rasmussen-1
+ 53.0,1,Iowa,,36,53,,Feb 22,,,,,,,,Rasmussen-1
+ 26.0,1,Iowa,,31,59,,Jan 26,,,,,,,,Rasmussen-1
+297.0,5,Kansas,,26,66,,Oct 26,,,,,,,,SurveyUSA-5
+284.0,3,Kansas,,27,67,,Oct 12,,,,,,,,SurveyUSA-3
+258.0,3,Kansas,,24,66,,Sep 16,,,,,,,,SurveyUSA-3
+225.5,4,Kansas,,23,69,,Aug 15,,,,,,,,SurveyUSA-4
+216.0,1,Kansas,,28,61,,Aug 04,,,,,,,,Rasmussen-1
+181.0,1,Kansas,,23,59,,Jun 30,,,,,,,,Rasmussen-1
+131.0,1,Kansas,,25,61,,May 11,,,,,,,,Rasmussen-1
+300.0,1,Kentucky,,41,53,,Oct 27,,,,,,,,Rasmussen-1
+299.0,3,Kentucky,,39,47,,Oct 27,,,,,,,,Braun Research-3
+298.5,4,Kentucky,,43,52,,Oct 27,,,,,,,,SurveyUSA-4
+296.0,1,Kentucky,,43,50,,Oct 23,,,,,,,,Pulse Opinion Research-1
+296.0,7,Kentucky,,43,50,,Oct 26,,,,,,,,Opinion Research-7
+295.5,4,Kentucky,,40,53,,Oct 24,,,,,,,,PPP-4
+291.5,2,Kentucky,,43,48,,Oct 19,,,,,,,,Mason Dixon-2
+291.0,1,Kentucky,,42,47,,Oct 18,,,,,,,,Rasmussen-1
+278.0,3,Kentucky,,40,43,,Oct 06,,,,,,,,Braun Research-3
+272.0,1,Kentucky,,38,49,,Sep 29,,,,,,,,Rasmussen-1
+265.0,3,Kentucky,,47,49,,Sep 23,,,,,,,,SurveyUSA-3
+254.5,2,Kentucky,,42,49,,Sep 12,,,,,,,,PPP-2
+250.0,1,Kentucky,,39,54,,Sep 07,,,,,,,,Rasmussen-1
+247.5,6,Kentucky,,46,46,,Sep 07,,,,,,,,Opinion Research-6
+245.0,1,Kentucky,,40,55,,Sep 02,,,,,,,,SurveyUSA-1
+243.0,3,Kentucky,,37,42,,Sep 01,,,,,,,,Braun Research-3
+243.0,3,Kentucky,,40,55,,Sep 01,,,,,,,,SurveyUSA-3
+229.0,1,Kentucky,,40,49,,Aug 17,,,,,,,,Rasmussen-1
+229.0,3,Kentucky,,42,41,,Aug 18,,,,,,,,Braun Research-3
+226.0,3,Kentucky,,40,45,,Aug 15,,,,,,,,IPSOS-3
+215.0,3,Kentucky,,31,41,,Aug 04,,,,,,,,Braun Research-3
+209.0,3,Kentucky,,43,51,,Jul 29,,,,,,,,SurveyUSA-3
+201.0,1,Kentucky,,41,49,,Jul 20,,,,,,,,Rasmussen-1
+201.0,3,Kentucky,,38,41,,Jul 21,,,,,,,,Braun Research-3
+180.0,3,Kentucky,,43,43,,Jun 30,,,,,,,,PPP-3
+179.0,1,Kentucky,,42,49,,Jun 28,,,,,,,,Rasmussen-1
+152.0,1,Kentucky,,41,49,,Jun 01,,,,,,,,Rasmussen-1
+148.0,3,Kentucky,,45,51,,May 29,,,,,,,,SurveyUSA-3
+139.0,1,Kentucky,,34,59,,May 19,,,,,,,,Rasmussen-1
+121.5,2,Kentucky,,40,41,,May 02,,,,,,,,PPP-2
+118.0,1,Kentucky,,38,47,,Apr 28,,,,,,,,Rasmussen-1
+ 90.0,1,Kentucky,,36,50,,Mar 31,,,,,,,,Rasmussen-1
+ 61.0,1,Kentucky,,34,49,,Mar 02,,,,,,,,Rasmussen-1
+ 33.0,1,Kentucky,,39,47,,Feb 02,,,,,,,,Rasmussen-1
+  6.0,1,Kentucky,,38,46,,Jan 06,,,,,,,,Rasmussen-1
+295.5,4,Louisiana,,38,50,,Oct 24,,,,,,,,Clarus-4
+233.5,2,Louisiana,,41,51,,Aug 22,,,,,,,,PPP-2
+227.5,2,Louisiana,,36,48,,Aug 16,,,,,,,,Clarus-2
+199.0,3,Louisiana,,32,44,,Jul 19,,,,,,,,PPP-3
+175.0,1,Louisiana,,35,53,,Jun 24,,,,,,,,Rasmussen-1
+163.5,2,Louisiana,,37,46,,Jun 13,,,,,,,,PPP-2
+111.0,5,Louisiana,,31,49,,Apr 23,,,,,,,,Opinion Research-5
+ 97.0,1,Louisiana,,36,52,,Apr 07,,,,,,,,Rasmussen-1
+ 69.0,1,Louisiana,,33,57,,Mar 10,,,,,,,,Rasmussen-1
+ 41.0,1,Louisiana,,33,57,,Feb 10,,,,,,,,Rasmussen-1
+ 14.0,1,Louisiana,,35,53,,Jan 14,,,,,,,,Rasmussen-1
+  8.5,6,Louisiana,,32,52,,Jan 11,,,,,,,,Polimetrix-6
+297.0,1,Maryland,,56,38,,Oct 24,,,,,,,,Rasmussen-1
+293.5,4,Maryland,,64,27,,Oct 22,,,,,,,,Washington Post-4
+290.5,6,Maryland,,59,32,,Oct 20,,,,,,,,OpinionWorks-6
+286.5,6,Maryland,,55,38,,Oct 16,,,,,,,,Gonzales Research-6
+281.5,16,Maryland,,55,38,,Oct 16,,,,,,,,Gonzales Research-16
+267.0,5,Maryland,,61,29,,Sep 26,,,,,,,,Washington Post-5
+258.0,1,Maryland,,54,38,,Sep 15,,,,,,,,Rasmussen-1
+229.0,1,Maryland,,55,39,,Aug 17,,,,,,,,Rasmussen-1
+192.0,3,Maryland,,59,27,,Jul 12,,,,,,,,PPP-3
+189.0,1,Maryland,,58,33,,Jul 08,,,,,,,,Rasmussen-1
+296.5,8,Missouri,,41,54,,Oct 27,,,,,,,,Missouri State U.-8
+292.0,1,Missouri,,43,52,,Oct 19,,,,,,,,Rasmussen-1
+292.0,3,Missouri,,40,49,,Oct 20,,,,,,,,Mason Dixon-3
+290.5,2,Missouri,,41,46,,Oct 18,,,,,,,,PPP-2
+289.0,1,Missouri,,43,49,,Oct 16,,,,,,,,Pulse Opinion Research-1
+278.0,1,Missouri,,43,51,,Oct 05,,,,,,,,Rasmussen-1
+276.0,5,Missouri,,40,53,,Oct 05,,,,,,,,Opinion Research-5
+275.0,1,Missouri,,42,50,,Oct 02,,,,,,,,Pulse Opinion Research-1
+264.0,1,Missouri,,44,52,,Sep 21,,,,,,,,Rasmussen-1
+259.0,5,Missouri,,39,43,,Sep 18,,,,,,,,Global Strategy-5
+250.0,1,Missouri,,43,53,,Sep 07,,,,,,,,Rasmussen-1
+235.0,1,Missouri,,40,51,,Aug 23,,,,,,,,Rasmussen-1
+226.5,2,Missouri,,38,45,,Aug 15,,,,,,,,PPP-2
+226.5,16,Missouri,,48,49,,Aug 22,,,,,,,,Missouri State U.-16
+222.0,1,Missouri,,43,50,,Aug 10,,,,,,,,Rasmussen-1
+208.0,1,Missouri,,43,49,,Jul 27,,,,,,,,Rasmussen-1
+201.0,3,Missouri,,42,48,,Jul 21,,,,,,,,Mason Dixon-3
+194.0,1,Missouri,,45,47,,Jul 13,,,,,,,,Rasmussen-1
+179.0,1,Missouri,,43,48,,Jun 28,,,,,,,,Rasmussen-1
+153.0,1,Missouri,,44,45,,Jun 02,,,,,,,,Rasmussen-1
+123.0,1,Missouri,,42,50,,May 03,,,,,,,,Rasmussen-1
+ 96.0,1,Missouri,,42,48,,Apr 06,,,,,,,,Rasmussen-1
+ 86.5,2,Missouri,,41,45,,Mar 28,,,,,,,,PPP-2
+ 68.0,1,Missouri,,41,47,,Mar 09,,,,,,,,Rasmussen-1
+ 41.0,1,Missouri,,42,49,,Feb 10,,,,,,,,Rasmussen-1
+ 19.0,1,Missouri,,43,49,,Jan 19,,,,,,,,Rasmussen-1
+ 10.5,2,Missouri,,45,44,,Jan 11,,,,,,,,PPP-2
+  8.5,6,Missouri,,43,39,,Jan 11,,,,,,,,Polimetrix-6
+299.0,3,Nevada,,45,49,,Oct 27,,,,,,,,Mason Dixon-3
+298.0,1,Nevada,,45,49,,Oct 25,,,,,,,,Rasmussen-1
+296.0,7,Nevada,,45,49,,Oct 26,,,,,,,,Opinion Research-7
+290.0,1,Nevada,,47,50,,Oct 17,,,,,,,,Rasmussen-1
+284.5,2,Nevada,,45,47,,Oct 12,,,,,,,,Mason Dixon-2
+284.0,1,Nevada,,48,49,,Oct 11,,,,,,,,Rasmussen-1
+282.0,1,Nevada,,47,49,,Oct 09,,,,,,,,Pulse Opinion Research-1
+281.5,4,Nevada,,45,43,,Oct 10,,,,,,,,Suffolk U.-4
+281.0,3,Nevada,,49,48,,Oct 09,,,,,,,,PPP-3
+278.0,1,Nevada,,46,50,,Oct 05,,,,,,,,Rasmussen-1
+276.0,5,Nevada,,40,42,,Oct 05,,,,,,,,Opinion Research-5
+271.0,1,Nevada,,48,47,,Sep 28,,,,,,,,Rasmussen-1
+264.0,3,Nevada,,43,43,,Sep 22,,,,,,,,Mason Dixon-3
+261.0,1,Nevada,,45,46,,Sep 18,,,,,,,,Pulse Opinion Res.-1
+256.0,1,Nevada,,48,48,,Sep 13,,,,,,,,Rasmussen-1
+255.0,5,Nevada,,41,42,,Sep 14,,,,,,,,Opinion Research-5
+254.0,1,Nevada,,44,45,,Sep 11,,,,,,,,Pulse Opinion Res.-1
+254.0,3,Nevada,,46,44,,Sep 12,,,,,,,,IPSOS-3
+251.0,3,Nevada,,46,44,,Sep 09,,,,,,,,Mason Dixon-3
+244.0,1,Nevada,,50,47,,Sep 01,,,,,,,,Rasmussen-1
+236.0,3,Nevada,,45,44,,Aug 25,,,,,,,,Mason Dixon-3
+228.0,1,Nevada,,47,47,,Aug 16,,,,,,,,Rasmussen-1
+222.0,3,Nevada,,46,44,,Aug 11,,,,,,,,Mason Dixon-3
+212.0,3,Nevada,,48,44,,Aug 01,,,,,,,,IPSOS-3
+208.0,1,Nevada,,45,43,,Jul 27,,,,,,,,Rasmussen-1
+208.0,3,Nevada,,43,42,,Jul 28,,,,,,,,Mason Dixon-3
+198.0,3,Nevada,,48,46,,Jul 18,,,,,,,,PPP-3
+194.0,3,Nevada,,44,37,,Jul 14,,,,,,,,Mason Dixon-3
+193.0,1,Nevada,,43,46,,Jul 12,,,,,,,,Rasmussen-1
+173.0,1,Nevada,,41,48,,Jun 22,,,,,,,,Rasmussen-1
+160.0,1,Nevada,,39,50,,Jun 09,,,,,,,,Rasmussen-1
+153.0,3,Nevada,,41,44,,Jun 03,,,,,,,,Mason Dixon-3
+145.0,3,Nevada,,42,39,,May 26,,,,,,,,Mason Dixon-3
+117.0,1,Nevada,,40,48,,Apr 27,,,,,,,,Rasmussen-1
+ 90.0,1,Nevada,,40,51,,Mar 31,,,,,,,,Rasmussen-1
+ 62.0,1,Nevada,,38,46,,Mar 03,,,,,,,,Rasmussen-1
+ 54.0,3,Nevada,,42,44,,Feb 24,,,,,,,,Mason Dixon-3
+ 33.0,1,Nevada,,40,44,,Feb 02,,,,,,,,Rasmussen-1
+ 11.0,1,Nevada,,40,44,,Jan 11,,,,,,,,Rasmussen-1
+  6.0,3,Nevada,,40,45,,Jan 07,,,,,,,,Mason Dixon-3
+301.0,3,New Hampshire,,41,56,,Oct 29,,,,,,,,PPP-3
+283.0,1,New Hampshire,,44,51,,Oct 10,,,,,,,,Rasmussen-1
+282.5,6,New Hampshire,,35,50,,Oct 12,,,,,,,,U. of New Hampshire-6
+277.0,3,New Hampshire,,42,47,,Oct 05,,,,,,,,ARG-3
+269.0,7,New Hampshire,,35,50,,Sep 29,,,,,,,,U. of New Hampshire-7
+267.0,5,New Hampshire,,32,46,,Sep 26,,,,,,,,ARG-5
+258.0,1,New Hampshire,,44,51,,Sep 15,,,,,,,,Rasmussen-1
+254.5,2,New Hampshire,,43,47,,Sep 12,,,,,,,,PPP-2
+217.0,1,New Hampshire,,38,51,,Aug 05,,,,,,,,Rasmussen-1
+205.0,3,New Hampshire,,42,45,,Jul 25,,,,,,,,PPP-3
+204.0,9,New Hampshire,,37,45,,Jul 27,,,,,,,,U. of New Hampshire-9
+193.0,1,New Hampshire,,37,49,,Jul 12,,,,,,,,Rasmussen-1
+131.0,1,New Hampshire,,38,50,,May 11,,,,,,,,Rasmussen-1
+113.0,11,New Hampshire,,32,47,,Apr 28,,,,,,,,U. of New Hampshire-11
+107.5,2,New Hampshire,,40,47,,Apr 18,,,,,,,,PPP-2
+ 97.0,1,New Hampshire,,35,50,,Apr 07,,,,,,,,Rasmussen-1
+ 67.0,1,New Hampshire,,37,47,,Mar 08,,,,,,,,Rasmussen-1
+ 41.0,1,New Hampshire,,39,46,,Feb 10,,,,,,,,Rasmussen-1
+ 30.5,8,New Hampshire,,33,41,,Feb 03,,,,,,,,U. of New Hampshire-8
+ 12.0,1,New Hampshire,,40,49,,Jan 12,,,,,,,,Rasmussen-1
+299.5,4,New York,,57,33,,Oct 28,,,,,,,,YouGov-4
+294.0,7,New York,,57,34,,Oct 24,,,,,,,,Quinnipiac U.-7
+292.0,1,New York,,54,33,,Oct 19,,,,,,,,Rasmussen-1
+292.0,3,New York,,56,38,,Oct 20,,,,,,,,Marist Coll.-3
+289.0,5,New York,,60,31,,Oct 18,,,,,,,,Siena Coll.-5
+285.5,6,New York,,50,25,,Oct 15,,,,,,,,NY Times-6
+285.0,3,New York,,54,36,,Oct 13,,,,,,,,SurveyUSA-3
+279.0,3,New York,,54,35,,Oct 07,,,,,,,,SurveyUSA-3
+276.0,5,New York,,55,34,,Oct 05,,,,,,,,Quinnipiac U.-5
+276.0,5,New York,,55,41,,Oct 05,,,,,,,,Opinion Research-5
+275.0,3,New York,,50,40,,Oct 03,,,,,,,,PPP-3
+263.5,2,New York,,45,44,,Sep 21,,,,,,,,SurveyUSA-2
+263.5,4,New York,,52,41,,Sep 22,,,,,,,,Marist Coll.-4
+261.0,5,New York,,48,42,,Sep 20,,,,,,,,Quinnipiac U.-5
+259.5,2,New York,,57,31,,Sep 17,,,,,,,,Siena Coll.-2
+259.0,1,New York,,49,39,,Sep 16,,,,,,,,Rasmussen-1
+244.0,1,New York,,51,31,,Sep 01,,,,,,,,Rasmussen-1
+224.5,8,New York,,54,29,,Aug 16,,,,,,,,Siena Coll.-8
+296.5,4,North Carolina,,38,53,,Oct 25,,,,,,,,SurveyUSA-4
+289.0,3,North Carolina,,40,48,,Oct 17,,,,,,,,PPP-3
+285.0,1,North Carolina,,38,52,,Oct 12,,,,,,,,Rasmussen-1
+270.5,6,North Carolina,,31,45,,Sep 30,,,,,,,,High Point University-6
+267.5,4,North Carolina,,36,49,,Sep 26,,,,,,,,PPP-4
+254.5,4,North Carolina,,34,58,,Sep 13,,,,,,,,SurveyUSA-4
+251.0,1,North Carolina,,38,54,,Sep 08,,,,,,,,Rasmussen-1
+240.0,3,North Carolina,,38,43,,Aug 29,,,,,,,,PPP-3
+215.0,1,North Carolina,,40,49,,Aug 03,,,,,,,,Rasmussen-1
+210.0,5,North Carolina,,37,39,,Jul 31,,,,,,,,PPP-5
+190.5,4,North Carolina,,36,46,,Jul 11,,,,,,,,SurveyUSA-4
+187.0,1,North Carolina,,37,52,,Jul 06,,,,,,,,Rasmussen-1
+177.5,2,North Carolina,,33,38,,Jun 27,,,,,,,,PPP-2
+174.5,2,North Carolina,,40,50,,Jun 24,,,,,,,,SurveyUSA-2
+174.0,1,North Carolina,,43,44,,Jun 23,,,,,,,,Rasmussen-1
+156.0,3,North Carolina,,39,46,,Jun 06,,,,,,,,PPP-3
+154.0,1,North Carolina,,36,50,,Jun 03,,,,,,,,Rasmussen-1
+129.0,3,North Carolina,,42,43,,May 10,,,,,,,,PPP-3
+125.0,1,North Carolina,,40,48,,May 05,,,,,,,,Rasmussen-1
+109.0,1,North Carolina,,32,50,,Apr 19,,,,,,,,Rasmussen-1
+ 99.5,4,North Carolina,,37,43,,Apr 11,,,,,,,,PPP-4
+ 81.0,1,North Carolina,,35,51,,Mar 22,,,,,,,,Rasmussen-1
+ 72.5,4,North Carolina,,36,41,,Mar 15,,,,,,,,PPP-4
+ 54.0,1,North Carolina,,34,50,,Feb 23,,,,,,,,Rasmussen-1
+ 47.0,3,North Carolina,,29,54,,Feb 17,,,,,,,,Mason Dixon-3
+ 44.5,4,North Carolina,,33,43,,Feb 15,,,,,,,,PPP-4
+ 27.0,1,North Carolina,,37,47,,Jan 27,,,,,,,,Rasmussen-1
+ 16.5,4,North Carolina,,37,44,,Jan 18,,,,,,,,PPP-4
+293.0,1,North Dakota,,25,72,,Oct 20,,,,,,,,Rasmussen-1
+263.5,2,North Dakota,,25,68,,Sep 21,,,,,,,,Rasmussen-2
+222.5,2,North Dakota,,25,69,,Aug 11,,,,,,,,Rasmussen-2
+202.0,1,North Dakota,,22,69,,Jul 21,,,,,,,,Rasmussen-1
+166.5,2,North Dakota,,19,73,,Jun 16,,,,,,,,Rasmussen-2
+138.5,2,North Dakota,,23,72,,May 19,,,,,,,,Rasmussen-2
+110.0,1,North Dakota,,24,69,,Apr 20,,,,,,,,Rasmussen-1
+ 82.0,1,North Dakota,,25,68,,Mar 23,,,,,,,,Rasmussen-1
+ 40.5,2,North Dakota,,17,71,,Feb 10,,,,,,,,Rasmussen-2
+  1.0,1,North Dakota,,25,70,,Jan 01,,,,,,,,Estimate-1
+299.5,4,Ohio,,40,53,,Oct 28,,,,,,,,YouGov-4
+297.0,5,Ohio,,37,52,,Oct 26,,,,,,,,SurveyUSA-5
+294.0,7,Ohio,,36,53,,Oct 24,,,,,,,,Quinnipiac U.-7
+290.0,5,Ohio,,40,55,,Oct 19,,,,,,,,Opinion Research-5
+289.0,5,Ohio,,39,58,,Oct 18,,,,,,,,U. of Cincinnati-5
+287.5,6,Ohio,,34,55,,Oct 17,,,,,,,,Quinnipiac U.-6
+284.0,1,Ohio,,34,57,,Oct 11,,,,,,,,Rasmussen-1
+283.5,6,Ohio,,36,58,,Oct 13,,,,,,,,U. of Cincinnati-6
+282.0,1,Ohio,,35,52,,Oct 09,,,,,,,,Pulse Opinion Research-1
+279.5,4,Ohio,,43,52,,Oct 08,,,,,,,,Angus Reid Public Opinion-4
+278.0,3,Ohio,,37,47,,Oct 06,,,,,,,,Suffolk U.-3
+275.0,1,Ohio,,37,53,,Oct 02,,,,,,,,Pulse Opinion Research-1
+274.0,5,Ohio,,36,55,,Oct 03,,,,,,,,Quinnipiac U.-5
+270.0,1,Ohio,,42,51,,Sep 27,,,,,,,,Rasmussen-1
+268.0,1,Ohio,,37,50,,Sep 25,,,,,,,,Pulse Opinion Research-1
+268.0,5,Ohio,,34,45,,Sep 27,,,,,,,,CBS News-5
+267.0,3,Ohio,,37,50,,Sep 25,,,,,,,,IPSOS-3
+261.0,1,Ohio,,36,49,,Sep 18,,,,,,,,Pulse Opinion Res.-1
+261.0,5,Ohio,,40,55,,Sep 20,,,,,,,,U. of Cincinnati-5
+256.0,1,Ohio,,41,49,,Sep 13,,,,,,,,Rasmussen-1
+255.0,5,Ohio,,41,52,,Sep 14,,,,,,,,Opinion Research-5
+254.5,4,Ohio,,40,49,,Sep 13,,,,,,,,SurveyUSA-4
+254.5,6,Ohio,,35,55,,Sep 14,,,,,,,,Quinnipiac U.-6
+254.0,1,Ohio,,41,48,,Sep 11,,,,,,,,Pulse Opinion Res.-1
+242.0,1,Ohio,,39,44,,Aug 30,,,,,,,,Rasmussen-1
+241.5,10,Ohio,,37,50,,Sep 03,,,,,,,,Columbus Dispatch-10
+240.0,3,Ohio,,38,45,,Aug 29,,,,,,,,PPP-3
+228.0,1,Ohio,,37,45,,Aug 16,,,,,,,,Rasmussen-1
+219.0,3,Ohio,,36,43,,Aug 08,,,,,,,,IPSOS-3
+214.0,1,Ohio,,40,44,,Aug 02,,,,,,,,Rasmussen-1
+200.0,1,Ohio,,39,45,,Jul 19,,,,,,,,Rasmussen-1
+180.0,1,Ohio,,39,43,,Jun 29,,,,,,,,Rasmussen-1
+177.5,2,Ohio,,40,38,,Jun 27,,,,,,,,PPP-2
+175.5,6,Ohio,,42,40,,Jun 27,,,,,,,,Quinnipiac U.-6
+154.0,1,Ohio,,43,43,,Jun 03,,,,,,,,Rasmussen-1
+135.5,10,Ohio,,47,46,,May 20,,,,,,,,U. of Cincinnati-10
+125.0,1,Ohio,,43,42,,May 05,,,,,,,,Rasmussen-1
+113.5,6,Ohio,,40,37,,Apr 26,,,,,,,,Quinnipiac U.-6
+ 89.0,1,Ohio,,38,43,,Mar 30,,,,,,,,Rasmussen-1
+ 85.0,7,Ohio,,41,37,,Mar 29,,,,,,,,Quinnipiac U.-7
+ 79.5,2,Ohio,,36,41,,Mar 21,,,,,,,,PPP-2
+ 63.0,1,Ohio,,39,44,,Mar 04,,,,,,,,Rasmussen-1
+ 49.5,6,Ohio,,37,40,,Feb 21,,,,,,,,Quinnipiac U.-6
+ 36.5,2,Ohio,,39,43,,Feb 06,,,,,,,,Rasmussen-2
+ 12.0,1,Ohio,,37,44,,Jan 12,,,,,,,,Rasmussen-1
+  8.5,6,Ohio,,31,37,,Jan 11,,,,,,,,Polimetrix-6
+293.5,6,Oklahoma,,24,67,,Oct 23,,,,,,,,Sooner Poll-6
+278.0,5,Oklahoma,,22,62,,Oct 07,,,,,,,,Sooner Poll-5
+266.0,1,Oklahoma,,26,68,,Sep 23,,,,,,,,Rasmussen-1
+238.0,1,Oklahoma,,24,67,,Aug 26,,,,,,,,Rasmussen-1
+209.0,1,Oklahoma,,31,65,,Jul 28,,,,,,,,Rasmussen-1
+181.0,1,Oklahoma,,26,65,,Jun 30,,,,,,,,Rasmussen-1
+  1.0,1,Oklahoma,,41,53,,Jan 01,,,,,,,,2004 Election-1
+298.5,6,Oregon,,57,32,,Oct 28,,,,,,,,SurveyUSA-6
+298.0,1,Oregon,,53,42,,Oct 25,,,,,,,,Rasmussen-1
+289.0,3,Oregon,,56,40,,Oct 17,,,,,,,,PPP-3
+286.0,3,Oregon,,56,34,,Oct 14,,,,,,,,SurveyUSA-3
+283.0,1,Oregon,,52,36,,Oct 10,,,,,,,,Rasmussen-1
+256.0,3,Oregon,,54,38,,Sep 14,,,,,,,,SurveyUSA-3
+251.0,1,Oregon,,53,35,,Sep 08,,,,,,,,Rasmussen-1
+234.0,1,Oregon,,56,36,,Aug 22,,,,,,,,Rasmussen-1
+207.0,1,Oregon,,51,35,,Jul 26,,,,,,,,Rasmussen-1
+207.0,3,Oregon,,53,35,,Jul 27,,,,,,,,SurveyUSA-3
+172.0,1,Oregon,,50,32,,Jun 21,,,,,,,,Davis+Hibbits+Midghall-1
+168.0,1,Oregon,,47,37,,Jun 17,,,,,,,,Rasmussen-1
+159.0,3,Oregon,,51,38,,Jun 09,,,,,,,,SurveyUSA-3
+144.0,1,Oregon,,51,38,,May 24,,,,,,,,Rasmussen-1
+ 47.0,1,Oregon,,49,35,,Feb 16,,,,,,,,Rasmussen-1
+301.0,1,Pennsylvania,,46,50,,Oct 28,,,,,,,,Rasmussen-1
+300.0,3,Pennsylvania,,45,52,,Oct 28,,,,,,,,Marist Coll.-3
+299.5,4,Pennsylvania,,44,50,,Oct 28,,,,,,,,YouGov-4
+298.5,4,Pennsylvania,,40,48,,Oct 27,,,,,,,,Muhlenberg Coll.-4
+296.0,3,Pennsylvania,,46,46,,Oct 24,,,,,,,,IPSOS-3
+296.0,7,Pennsylvania,,45,49,,Oct 26,,,,,,,,Opinion Research-7
+294.5,4,Pennsylvania,,43,46,,Oct 23,,,,,,,,Muhlenberg Coll.-4
+294.0,1,Pennsylvania,,44,48,,Oct 21,,,,,,,,Rasmussen-1
+294.0,7,Pennsylvania,,40,48,,Oct 24,,,,,,,,Franklin+Marshall Coll.-7
+290.5,2,Pennsylvania,,46,45,,Oct 18,,,,,,,,PPP-2
+290.5,4,Pennsylvania,,44,41,,Oct 19,,,,,,,,Muhlenberg Coll.-4
+288.0,5,Pennsylvania,,46,48,,Oct 17,,,,,,,,Quinnipiac U.-5
+285.0,1,Pennsylvania,,39,49,,Oct 12,,,,,,,,Rasmussen-1
+277.0,1,Pennsylvania,,42,51,,Oct 04,,,,,,,,Marist Coll.-1
+274.0,7,Pennsylvania,,38,45,,Oct 04,,,,,,,,Muhlenberg Coll.-7
+272.0,1,Pennsylvania,,40,49,,Sep 29,,,,,,,,Rasmussen-1
+270.0,3,Pennsylvania,,42,51,,Sep 28,,,,,,,,Marist Coll.-3
+268.5,4,Pennsylvania,,40,45,,Sep 27,,,,,,,,Suffolk U.-4
+266.0,7,Pennsylvania,,29,38,,Sep 26,,,,,,,,Franklin+Marshall Coll.-7
+263.5,6,Pennsylvania,,39,44,,Sep 23,,,,,,,,Muhlenberg Coll.-6
+262.0,5,Pennsylvania,,44,49,,Sep 21,,,,,,,,Opinion Research-5
+261.0,1,Pennsylvania,,40,48,,Sep 18,,,,,,,,Pulse Opinion Res.-1
+260.0,5,Pennsylvania,,43,50,,Sep 19,,,,,,,,Quinnipiac U.-5
+258.5,2,Pennsylvania,,36,45,,Sep 16,,,,,,,,Municipoll-2
+258.0,3,Pennsylvania,,36,40,,Sep 16,,,,,,,,Critical Insights-3
+256.0,1,Pennsylvania,,39,49,,Sep 13,,,,,,,,Rasmussen-1
+254.0,1,Pennsylvania,,41,47,,Sep 11,,,,,,,,Pulse Opinion Res.-1
+242.0,1,Pennsylvania,,39,45,,Aug 30,,,,,,,,Rasmussen-1
+240.0,3,Pennsylvania,,37,47,,Aug 29,,,,,,,,IPSOS-3
+231.5,8,Pennsylvania,,31,40,,Aug 23,,,,,,,,Franklin+Marshall Coll.-8
+228.0,1,Pennsylvania,,37,46,,Aug 16,,,,,,,,Rasmussen-1
+227.0,3,Pennsylvania,,36,45,,Aug 16,,,,,,,,PPP-3
+209.0,1,Pennsylvania,,39,45,,Jul 28,,,,,,,,Rasmussen-1
+195.0,1,Pennsylvania,,38,45,,Jul 14,,,,,,,,Rasmussen-1
+189.5,6,Pennsylvania,,43,43,,Jul 11,,,,,,,,Quinnipiac U.-6
+180.0,1,Pennsylvania,,39,45,,Jun 29,,,,,,,,Rasmussen-1
+171.0,3,Pennsylvania,,41,41,,Jun 21,,,,,,,,PPP-3
+153.0,1,Pennsylvania,,38,45,,Jun 02,,,,,,,,Rasmussen-1
+139.0,1,Pennsylvania,,46,42,,May 19,,,,,,,,Rasmussen-1
+127.0,7,Pennsylvania,,40,42,,May 10,,,,,,,,Quinnipiac U.-7
+126.0,1,Pennsylvania,,40,42,,May 06,,,,,,,,Rasmussen-1
+126.0,7,Pennsylvania,,28,29,,May 09,,,,,,,,Franklin+Marshall Coll.-7
+102.0,1,Pennsylvania,,36,47,,Apr 12,,,,,,,,Rasmussen-1
+ 92.5,10,Pennsylvania,,22,31,,Apr 07,,,,,,,,Muhlenberg Coll.-10
+ 92.0,7,Pennsylvania,,34,42,,Apr 05,,,,,,,,Quinnipiac U.-7
+ 89.5,4,Pennsylvania,,36,42,,Apr 01,,,,,,,,PPP-4
+ 77.0,7,Pennsylvania,,19,27,,Mar 21,,,,,,,,Franklin+Marshall Coll.-7
+ 74.0,1,Pennsylvania,,37,42,,Mar 15,,,,,,,,Rasmussen-1
+ 56.0,7,Pennsylvania,,36,39,,Feb 28,,,,,,,,Quinnipiac U.-7
+ 49.0,7,Pennsylvania,,20,38,,Feb 21,,,,,,,,Franklin+Marshall Coll.-7
+ 39.0,1,Pennsylvania,,35,43,,Feb 08,,,,,,,,Rasmussen-1
+ 21.0,7,Pennsylvania,,19,41,,Jan 24,,,,,,,,Franklin+Marshall Coll.-7
+ 18.0,1,Pennsylvania,,35,43,,Jan 18,,,,,,,,Rasmussen-1
+  8.5,6,Pennsylvania,,33,37,,Jan 11,,,,,,,,Polimetrix-6
+292.0,1,South Carolina,,21,58,,Oct 19,,,,,,,,Rasmussen-1
+280.5,6,South Carolina,,11,58,,Oct 10,,,,,,,,Winthrop U.-6
+273.0,1,South Carolina,,23,56,,Sep 30,,,,,,,,Crantford Associates-1
+265.0,1,South Carolina,,21,64,,Sep 22,,,,,,,,Rasmussen-1
+237.0,1,South Carolina,,19,63,,Aug 25,,,,,,,,Rasmussen-1
+210.0,1,South Carolina,,20,62,,Jul 29,,,,,,,,Rasmussen-1
+161.0,1,South Carolina,,21,58,,Jun 10,,,,,,,,Rasmussen-1
+  1.0,1,South Carolina,,44,54,,Jan 01,,,,,,,,2004 Election-1
+306.0,1,South Dakota,,0,99,,Nov 02,,,,,,,,No Democrat is running-1
+299.0,3,Utah,,32,48,,Oct 27,,,,,,,,Mason Dixon-3
+286.0,1,Utah,,28,61,,Oct 13,,,,,,,,Rasmussen-1
+285.0,3,Utah,,31,53,,Oct 13,,,,,,,,Dan Jones-3
+263.0,1,Utah,,25,52,,Sep 20,,,,,,,,Dan Jones-1
+253.0,7,Utah,,24,52,,Sep 13,,,,,,,,Howey Gauge-7
+253.0,7,Utah,,25,52,,Sep 13,,,,,,,,Dan Jones-7
+235.0,1,Utah,,29,54,,Aug 23,,,,,,,,Rasmussen-1
+174.0,1,Utah,,28,58,,Jun 23,,,,,,,,Rasmussen-1
+  1.0,1,Utah,,28,69,,Jan 01,,,,,,,,2004 Election-1
+285.0,3,Vermont,,61,27,,Oct 13,,,,,,,,Mason Dixon-3
+256.0,1,Vermont,,62,32,,Sep 13,,,,,,,,Rasmussen-1
+168.0,1,Vermont,,64,29,,Jun 17,,,,,,,,Rasmussen-1
+  1.0,1,Vermont,,71,25,,Jan 01,,,,,,,,2004 Election-1
+300.0,3,Washington,,49,48,,Oct 28,,,,,,,,Marist Coll.-3
+299.0,1,Washington,,47,48,,Oct 26,,,,,,,,Rasmussen-1
+298.5,4,Washington,,47,47,,Oct 27,,,,,,,,SurveyUSA-4
+296.0,11,Washington,,49,45,,Oct 28,,,,,,,,U. of Washington-11
+292.0,3,Washington,,48,47,,Oct 20,,,,,,,,Marist Coll.-3
+290.0,1,Washington,,49,46,,Oct 17,,,,,,,,Rasmussen-1
+288.0,3,Washington,,49,47,,Oct 16,,,,,,,,PPP-3
+285.5,4,Washington,,50,47,,Oct 14,,,,,,,,SurveyUSA-4
+283.0,5,Washington,,51,43,,Oct 12,,,,,,,,Opinion Research-5
+282.5,10,Washington,,50,42,,Oct 14,,,,,,,,U. of Washington-10
+282.0,1,Washington,,46,47,,Oct 09,,,,,,,,Pulse Opinion Research-1
+282.0,5,Washington,,55,40,,Oct 11,,,,,,,,Elway Poll-5
+279.0,1,Washington,,46,49,,Oct 06,,,,,,,,Rasmussen-1
+271.0,1,Washington,,47,48,,Sep 28,,,,,,,,Rasmussen-1
+268.0,1,Washington,,48,47,,Sep 25,,,,,,,,Pulse Opinion Research-1
+263.0,3,Washington,,50,48,,Sep 21,,,,,,,,SurveyUSA-3
+257.0,1,Washington,,51,46,,Sep 14,,,,,,,,Rasmussen-1
+255.0,5,Washington,,53,44,,Sep 14,,,,,,,,Opinion Research-5
+253.5,4,Washington,,50,41,,Sep 12,,,,,,,,Elway Poll-4
+243.0,1,Washington,,47,50,,Aug 31,,,,,,,,Rasmussen-1
+230.5,2,Washington,,45,52,,Aug 19,,,,,,,,SurveyUSA-2
+230.0,1,Washington,,48,44,,Aug 18,,,,,,,,Rasmussen-1
+210.5,6,Washington,,49,46,,Aug 01,,,,,,,,PPP-6
+209.0,1,Washington,,49,47,,Jul 28,,,,,,,,Rasmussen-1
+195.0,1,Washington,,45,48,,Jul 14,,,,,,,,Rasmussen-1
+173.0,1,Washington,,47,47,,Jun 22,,,,,,,,Rasmussen-1
+162.0,5,Washington,,47,40,,Jun 13,,,,,,,,Elway Poll-5
+146.0,1,Washington,,48,47,,May 26,,,,,,,,Rasmussen-1
+133.0,21,Washington,,42,40,,May 23,,,,,,,,U. of Washington-21
+124.0,1,Washington,,48,46,,May 04,,,,,,,,Rasmussen-1
+120.5,4,Washington,,51,34,,May 02,,,,,,,,Elway Poll-4
+110.5,4,Washington,,42,52,,Apr 22,,,,,,,,SurveyUSA-4
+ 96.0,1,Washington,,48,46,,Apr 06,,,,,,,,Rasmussen-1
+ 68.0,1,Washington,,46,49,,Mar 09,,,,,,,,Rasmussen-1
+ 42.0,1,Washington,,46,48,,Feb 11,,,,,,,,Rasmussen-1
+299.0,1,West Virginia,,49,46,,Oct 26,,,,,,,,Rasmussen-1
+296.5,2,West Virginia,,50,44,,Oct 24,,,,,,,,PPP-2
+296.0,1,West Virginia,,46,48,,Oct 23,,,,,,,,Pulse Opinion Research-1
+292.0,1,West Virginia,,43,50,,Oct 19,,,,,,,,Rasmussen-1
+291.5,4,West Virginia,,48,43,,Oct 20,,,,,,,,Global Strategy-4
+289.0,1,West Virginia,,45,48,,Oct 16,,,,,,,,Pulse Opinion Research-1
+285.0,1,West Virginia,,46,49,,Oct 12,,,,,,,,Rasmussen-1
+284.5,2,West Virginia,,48,38,,Oct 12,,,,,,,,Marshall University-2
+283.0,5,West Virginia,,44,44,,Oct 12,,,,,,,,Opinion Research-5
+282.5,2,West Virginia,,48,45,,Oct 10,,,,,,,,PPP-2
+278.0,1,West Virginia,,44,50,,Oct 05,,,,,,,,Rasmussen-1
+277.5,6,West Virginia,,42,39,,Oct 07,,,,,,,,Penn Schoen Berland-6
+275.0,1,West Virginia,,43,48,,Oct 02,,,,,,,,Pulse Opinion Research-1
+270.0,1,West Virginia,,46,48,,Sep 27,,,,,,,,Rasmussen-1
+262.0,1,West Virginia,,50,43,,Sep 19,,,,,,,,Rasmussen-1
+261.5,2,West Virginia,,43,46,,Sep 19,,,,,,,,PPP-2
+251.0,1,West Virginia,,50,45,,Sep 08,,,,,,,,Rasmussen-1
+241.0,1,West Virginia,,48,42,,Aug 29,,,,,,,,Rasmussen-1
+210.5,8,West Virginia,,54,32,,Aug 02,,,,,,,,Mindfield-8
+203.0,1,West Virginia,,51,35,,Jul 22,,,,,,,,Rasmussen-1
+300.0,3,Wisconsin,,44,53,,Oct 28,,,,,,,,PPP-3
+300.0,3,Wisconsin,,45,52,,Oct 28,,,,,,,,Marist Coll.-3
+298.5,4,Wisconsin,,44,48,,Oct 27,,,,,,,,We the People-4
+298.0,1,Wisconsin,,46,53,,Oct 25,,,,,,,,Rasmussen-1
+286.5,4,Wisconsin,,47,49,,Oct 15,,,,,,,,St. Norbert Coll.-4
+284.0,1,Wisconsin,,45,52,,Oct 11,,,,,,,,Rasmussen-1
+283.0,5,Wisconsin,,44,52,,Oct 12,,,,,,,,Opinion Research-5
+282.5,4,Wisconsin,,44,51,,Oct 11,,,,,,,,IPSOS-4
+282.0,5,Wisconsin,,43,45,,Oct 11,,,,,,,,Fairbank Maslin-5
+277.0,1,Wisconsin,,45,52,,Oct 04,,,,,,,,Marist Coll.-1
+274.5,6,Wisconsin,,41,49,,Oct 04,,,,,,,,We the People-6
+272.0,1,Wisconsin,,42,54,,Sep 29,,,,,,,,Rasmussen-1
+270.0,3,Wisconsin,,45,52,,Sep 28,,,,,,,,Marist Coll.-3
+268.0,1,Wisconsin,,44,52,,Sep 25,,,,,,,,Pulse Opinion Research-1
+262.0,5,Wisconsin,,45,51,,Sep 21,,,,,,,,Opinion Research-5
+261.5,2,Wisconsin,,41,52,,Sep 19,,,,,,,,PPP-2
+258.0,1,Wisconsin,,44,51,,Sep 15,,,,,,,,Rasmussen-1
+236.0,1,Wisconsin,,46,47,,Aug 24,,,,,,,,Rasmussen-1
+222.0,1,Wisconsin,,46,47,,Aug 10,,,,,,,,Rasmussen-1
+208.0,1,Wisconsin,,46,48,,Jul 27,,,,,,,,Rasmussen-1
+194.0,1,Wisconsin,,46,47,,Jul 13,,,,,,,,Rasmussen-1
+177.5,2,Wisconsin,,45,43,,Jun 27,,,,,,,,PPP-2
+175.5,32,Wisconsin,,33,28,,Jul 10,,,,,,,,U. of Wisconsin-32
+172.0,1,Wisconsin,,46,45,,Jun 21,,,,,,,,Rasmussen-1
+145.0,1,Wisconsin,,46,44,,May 25,,,,,,,,Rasmussen-1

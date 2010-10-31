@@ -1,0 +1,109 @@
+commit 2da840560c901a9139d2d70d681167247468352c
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Fri Oct 29 14:03:40 2010 -0700
+
+    Made cofe plotting function up to date.
+    
+    Changed how I display the carbon to oxygen ratio.  I plot the C/O on
+    a number scale and [Fe/H] on the sun-normalized log scale.  I also
+    differentiate between the planet and the non-planet hosts.
+
+commit 4888ee70552a29b3aabaa8ed6bab7e92c7e87212
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Fri Oct 29 00:11:26 2010 -0700
+
+    Added the median error bar for the metalicity abundance trends.  Having a
+    hard time adding this to the temperature systematics.
+
+commit 6a9c8322625b16d90479429579fd6e6b1099d097
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Thu Oct 28 21:46:48 2010 -0700
+
+    Added the population flag keyword to starsdb
+    
+    Made the plotting program a class.
+    Added a function to plot how the abundance trends with iron.
+
+commit d1837cfb404b1edbabfa38ac2077069d0914c94b
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Thu Oct 28 11:23:14 2010 -0700
+
+    Added a keyword to tfit in plotgen to look at the fit residuals.
+
+commit c34a43670e480bba1618d528f608256c39f5decf
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Wed Oct 27 23:37:37 2010 -0700
+
+    Worked on the temperature systematics fitter.
+    
+    starsdb:
+    Added o_abund_nt and c_abund_nt to save the non-corrected abundance
+    Also if mkdb detects the table already exists, kill it.
+    
+    Modified postfit to work with the databases as opposed to stars structure
+    
+    Created a new postfit.applytfit that updates the _abund columns to hold
+    the temperature-corrected abundance.
+
+commit de72b647a82b7a0466489f431958feaedcdba923
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Wed Oct 27 22:49:33 2010 -0700
+
+    Fixed problem with exo planet cuts.
+    
+    I was applying select distinct mystars.o_abund which throws out duplicate
+    abundances NOT duplicate stars.  Must run a select distinct on the *Stars*
+
+commit 014fa0e358480f2680a43b70efc5802e339ae3a4
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Wed Oct 27 13:23:38 2010 -0700
+
+    Added KS test that shows whether the planet sample and the comparison
+    sample are consistent with being drawn from the same distribution.
+    
+    Also changed around some of the histogram aesthetics.  I could do more,
+    but this is good for now.
+
+commit 8bd571dff4d3029f75050696c5b28bb296dbce31
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Wed Oct 27 12:34:30 2010 -0700
+
+    Exoplanet Histograms.
+    
+    Added exo function in plotgen which plots the different histograms of
+    abundances for stars with and without planets.
+    
+    Modified the starsdb program to include iron in the data base.
+
+commit 6ff45a699dbc5ace1d18da80e23084c1cb277c84
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 26 14:16:14 2010 -0700
+
+    Took out the linear fitter.
+
+commit 9924bcfce761031cd8b3e8cc985f0e6dfcea431b
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 26 14:13:44 2010 -0700
+
+    Added in linear fitter.  Bad.
+
+commit 4ed6eb3175df84529787dbc62a6897a75c8c9411
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 26 13:16:48 2010 -0700
+
+    Removed backup files
+
+commit e62d1cb08e2c3e9baba2bcf649e1346e4899fef7
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Tue Oct 26 12:14:17 2010 -0700
+
+    Database is setup to read files in from luck06.  The error bars are poorly
+    defined, but I need to move on.
+
+commit 1b30484904b977adc3dc3d95f3192b6deb5216f1
+Author: Version is now 2.0 <epetigura@berkeley.edu>
+Date:   Sun Oct 24 17:20:05 2010 -0700
+
+    Initial Commit.
+    
+    Was working on the compmany function in plotgen
