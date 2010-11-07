@@ -1,0 +1,22 @@
+README
+Homework 9
+Erik Petigura
+
+Hardware:
+2GHz MacBook with 1GB 667 MHz DDR2 SDRAM
+
+The relavent code for this project is in the pi.py module.  I implemented the Monte Carlo estimation of pi in the mcpi function.  The function `benchmark` will loop over mcpi using one of the following methods:
+Simple - Execute as fast as possible using single core.
+Process - Execute using two processors
+Thread  - Execute using 2*num_cpu threads.
+
+Performance curve is in:
+performance_curve.pdf
+
+To generate yourself:
+import pi
+pi.plotloop() # warning takes about 2 minutes to generate.
+
+The Simple method worked best for ndarts < 300
+The process method is *almost* twice as fast for high ndarts.
+
