@@ -1,0 +1,16 @@
+Plots in the R gallery I thought were cool.
+
+
+cars.R
+-------------------------------------------------------
+open in a text editor and copy paste lines into R terminal.
+
+A cool plot showing different stats (disp,cyl,mpg, etc) for 
+a collection of cars.
+
+volcano.R
+-------------------------------------------------------
+open in a text editor and copy paste lines into R terminal.
+
+A 3D rendering of a Volcano
+
